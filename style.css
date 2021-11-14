@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(27, 27, 27);
+}
+#about{
+    font-family: cursive;
+    background-color: rgb(8, 8, 8);
+    color: rgb(29, 29, 27);
+    border-radius: 10px;
+    font-size: x-large;
+    margin: 20px 10px;
+    border-color: red;
+    
+}
+#about-1{
+    font-family: cursive;
+    background-color: rgb(8, 8, 8);
+    color: rgb(29, 29, 27);
+    border-radius: 10px;
+    font-size: x-large;
+    margin: 20px 10px;
+    border-color: red;
+}
+#text{
+    color: rgb(78, 72, 72);
+    text-align: center;
+}
+#contact{
+    font-family: cursive;
+    background-color: rgb(8, 8, 8);
+    color: rgb(29, 29, 27);
+    border-radius: 10px;
+    font-size: x-large;
+    margin: 20px 10px;
+    border-color: red;
+}
+#websites{
+    font-family: cursive;
+    background-color: rgb(8, 8, 8);
+    color: rgb(29, 29, 27);
+    border-radius: 10px;
+    font-size: x-large;
+    margin: 20px 10px;
+    border-color: red;
+}
+#social{
+    font-family: cursive;
+    background-color: rgb(8, 8, 8);
+    color: rgb(29, 29, 27);
+    border-radius: 10px;
+    font-size: x-large;
+    margin: 20px 10px;
+    border-color: red;
+}
+span{
+    color: navy;
+    padding: 10px;
+    margin:  20rem;
+    font-size: xx-large;
+    border: navy;
+    border-radius: 10px;
+
+}
+#copyright{
+    font-size: smaller;
+    color: white;
+    margin: 1em;
+}
